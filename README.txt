@@ -20,3 +20,5 @@ After the attack, the files from the affected computer are provided as .tar.gz a
 This project allowed me to deepen my knowledge of file, directory, archive, and permission management in Bash, as well as error handling using return codes.
 In addition, I learned about Base64 encoding and the Vigenère cipher, including how to recover a key from a plaintext/ciphertext pair, as well as the different ways of using traces and evidence to reconstruct the course of an attack.
 Finally, I learned how to make Bash scripts and C programs work together as part of a single tool.
+
+Last update : 18/01/26
